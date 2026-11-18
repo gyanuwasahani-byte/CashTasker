@@ -1,0 +1,6 @@
+{
+  "name": "PHOTON ARENA",
+  "description": "Massive multiplayer first-person 3D laser tag arena with real-time WebSocket combat, multi-tier blacklight architecture, and tactical phaser loadouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
